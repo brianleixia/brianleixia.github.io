@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://brianleixia.github.io/sitemap.xml
+Sitemap: https://leixia.me//sitemap.xml
