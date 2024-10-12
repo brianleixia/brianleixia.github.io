@@ -22,17 +22,6 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Tencent AI Lab",
-      "position": "Intern",
-      "url": "https://ailab.tencent.com/",
-      "startDate": "2023-07-25",
-      "endDate": "2024-08-31",
-      "summary": "Alignment Model for Machine Translation, Build SFT Dataset for Hunyuan LLM",
-      "highlights": ["Relativity"]
-    }
-  ],
   // "volunteer": [
   //   {
   //     "organization": "People's Climate March",
@@ -76,6 +65,17 @@
       "endDate": "2022-06-30",
       "score": "First Class Honours",
       "courses": ["Grade: 3.53/4.0 (first class honours)", "Supervisor: Prof. Kang Zhang", "Final Year Project: A"]
+    }
+  ],
+  "work": [
+    {
+      "name": "Tencent AI Lab",
+      "position": "Intern",
+      "url": "https://ailab.tencent.com/",
+      "startDate": "2023-07-25",
+      "endDate": "2024-08-31",
+      "summary": "Alignment Model for Machine Translation, Build SFT Dataset for Hunyuan LLM",
+      "highlights": ["Relativity"]
     }
   ],
   "awards": [
