@@ -74,8 +74,39 @@
       "url": "https://ailab.tencent.com/",
       "startDate": "2023-07-25",
       "endDate": "2024-08-31",
-      "summary": "Alignment Model for Machine Translation, Build SFT Dataset for Hunyuan LLM",
-      "highlights": ["Relativity"]
+      "summary": "Alignment Model for Machine Translation, Build SFT Dataset for Hunyuan LLM"
+      // "highlights": ["Relativity"]
+    },
+    {
+      "name": "University of Texas at Dallas",
+      "position": "Research Intern (Remote)",
+      "url": "https://www.utdallas.edu/",
+      "startDate": "2023-05-01",
+      "endDate": "2024-02-29",
+      "summary": "Research on Information Extraction"
+    },
+    {
+      "name": "The Chinese University of Hong Kong (Shenzhen)",
+      "position": "Teaching Assistant",
+      "url": "https://www.cuhk.edu.cn/en",
+      "startDate": "2022-07-01",
+      "endDate": "2022-09-30",
+      "summary": "Research on Temporal Pre-trained Language Model"
+    },
+    {
+      "name": "PwC",
+      "position": "Software Engineer Intern",
+      "url": "https://www.pwc.com/",
+      "startDate": "2022-04-01",
+      "endDate": "2022-06-31"
+    },
+    {
+      "name": "iFLYTEK",
+      "position": "Intern",
+      "url": "https://www.iflytek.com/",
+      "startDate": "2020-08-01",
+      "endDate": "2020-09-30",
+      "summary": "Research on Financial Data Analysis"
     }
   ],
   "awards": [
