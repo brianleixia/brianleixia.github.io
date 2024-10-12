@@ -1308,12 +1308,8 @@ ninja-keys::part(ninja-input-wrapper) {
 // Clustrmaps
 .clustrmaps-globe {
   margin-top: 2em;
-  margin-bottom: 0.5em;
+  margin-bottom: 0;
   // text-align: center;
-
-  h2 {
-    margin-bottom: 0.5em;
-  }
 
   #clustrmaps-widget {
     width: 100px;  // 调整为您想要的宽度
