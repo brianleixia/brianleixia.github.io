@@ -131,3 +131,8 @@
   </div>
   {% include scripts/wechatModal.liquid %}
 {% endif %}
+{% comment %}
+{% if site.clustrmaps_id %}
+  <a href="https://clustrmaps.com/site/{{ site.clustrmaps_id }}" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?d={{ site.clustrmaps_id }}&cl=ffffff" /></a>
+{% endif %}
+{% endcomment %}

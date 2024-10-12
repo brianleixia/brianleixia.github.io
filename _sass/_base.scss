@@ -1304,3 +1304,11 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+// Clustrmaps
+#clustrmaps-widget {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  width: 100%;
+  height: 300px;  // 调整为您想要的高度
+}

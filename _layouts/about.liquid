@@ -76,5 +76,14 @@ layout: default
     {% if site.newsletter.enabled and site.footer_fixed %}
       {% include scripts/newsletter.liquid center=true %}
     {% endif %}
+
+    <!-- Clustrmaps Visitor Globe -->
+    {% if site.clustrmaps_id %}
+      <div class="clustrmaps-globe">
+        <h2>Visitor Map</h2>
+        <div id="clustrmaps-widget"></div>
+        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d={{ site.clustrmaps_id }}"></script>
+      </div>
+    {% endif %}
   </article>
 </div>
